@@ -6,8 +6,8 @@ Upload your CSV file, codebook.md, and any json files/relevant files here. AND
 Fill in the following two links.
 
  - Google Colab shared Link:  
- - ChatGPT shared link:  
-
+ - ChatGPT shared link:  https://chatgpt.com/share/6841b81c-9bf8-800b-bff0-794e7c6298e2
+                         https://chatgpt.com/share/6841c0b0-5568-8012-b2ad-87a55a029b30
 ---
 If there is other relevant information put it below:
 
